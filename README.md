@@ -1,3 +1,6 @@
+## Projeto - Crossy Road
+- Este jogo consiste numa versão do jogo Crossy Road totalmente criada em Haskell e foi desenvolvida no âmbito da realização do projeto de Laboratórios de Informática I no primeiro semestre em Engenharia Informática na Universidade do Minho.
+
 
 ![MENU](src/images/MENU.png)
 #
