@@ -3,14 +3,11 @@
 
 ## MENU
 ![MENU](src/images/MENU.png)
+#
 ![SKINS](src/images/SKINS.png)
-![JOGO](src/images/JOGO.png)
+#
 ![FIM](src/images/FIM.png)
 #
-#
-#
-#
-
 ## Repositório
 
 Se tiver chave SSH configurada no GitLab pode fazer clone com o seguinte link:
