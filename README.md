@@ -3,6 +3,12 @@
 
 ## MENU
 ![MENU](src/images/MENU.png)
+![SKINS](src/images/SKINS.png)
+![JOGO](src/images/JOGO.png)
+![FIM](src/images/FIM.png)
+#
+#
+#
 #
 
 ## Repositório
