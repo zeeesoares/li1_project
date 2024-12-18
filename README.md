@@ -1,5 +1,5 @@
 ## Project - Crossy Road
-- Own version of the iconic game Crossy Road coded in pure Haskell, this project was developed within the scope of the subject "Computer Laboratory I" in the first semester of my Degree in Software and Information Technology at UMinho.
+- Own version of the iconic game Crossy Road coded in pure Haskell, this project was developed within the scope of the subject "Laboratorios de Informática I" in the first semester of my Degree in Software and Information Technology at UMinho.
 
 ## MENU
 ![MENU](src/images/MENU.png)
